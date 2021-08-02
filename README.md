@@ -6,4 +6,4 @@ A self-guided visualization project that analyzes trends in GDP and life expecta
 - inspecting and preparing data frames for analysis
 - visualizing data through plots and graphs
 
-A final presentation is available in PDF format with all visualizations, created with Canva. Csv file has been provided by Codecademy as part of their Data Analyst certification course.
+A final presentation is available in PDF format with all visualizations, created with Canva. CSV files have been provided by Codecademy as part of their Data Analyst certification course.
